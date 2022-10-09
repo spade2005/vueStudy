@@ -1,0 +1,29 @@
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+
+  font-weight: normal;
+}
+
+
+
+@media (hover: hover) {
+  a:hover {
+    color: green;
+  }
+}
+
+
+
+a{
+  text-decoration: none;
+  color: #333;
+}
+
+
+.list-box,.create-box {
+  background: #fff;
+  padding: 1rem;
+}
